@@ -1,0 +1,325 @@
+2024-04-18 13:23:16,154 - luma -INFO - URL is opened
+2024-04-18 13:23:18,193 - luma -INFO - Login page is opened
+2024-04-18 13:23:18,500 - luma -INFO - Entered username
+2024-04-18 13:23:18,634 - luma -INFO - Entered password
+2024-04-18 14:27:40,329 - luma -INFO - URL is opened
+2024-04-18 14:27:42,588 - luma -INFO - Login page is opened
+2024-04-18 14:27:42,776 - luma -INFO - Entered username
+2024-04-18 14:27:42,960 - luma -INFO - Entered password
+2024-04-18 14:29:27,657 - luma -INFO - URL is opened
+2024-04-18 14:29:31,285 - luma -INFO - Login page is opened
+2024-04-18 14:29:31,508 - luma -INFO - Entered username
+2024-04-18 14:29:31,825 - luma -INFO - Entered password
+2024-04-18 14:29:35,280 - luma -INFO - Login test passed
+2024-04-18 15:19:09,342 - luma -INFO - URL is opened
+2024-04-18 15:19:11,431 - luma -INFO - Login page is opened
+2024-04-18 15:19:11,600 - luma -INFO - Entered username
+2024-04-18 15:19:11,769 - luma -INFO - Entered password
+2024-04-18 15:19:14,264 - luma -INFO - Login test passed
+2024-04-18 15:19:14,398 - luma -INFO - Search Product
+2024-04-18 15:38:45,013 - luma -INFO - URL is opened
+2024-04-18 15:38:47,960 - luma -INFO - Login page is opened
+2024-04-18 15:38:48,153 - luma -INFO - Entered username
+2024-04-18 15:38:48,340 - luma -INFO - Entered password
+2024-04-18 15:38:53,148 - luma -INFO - Login test passed
+2024-04-18 15:38:53,269 - luma -INFO - Search Product
+2024-04-18 15:42:44,432 - luma -INFO - URL is opened
+2024-04-18 15:42:47,138 - luma -INFO - Login page is opened
+2024-04-18 15:42:47,353 - luma -INFO - Entered username
+2024-04-18 15:42:47,561 - luma -INFO - Entered password
+2024-04-18 15:42:53,313 - luma -INFO - Login test passed
+2024-04-18 15:42:53,440 - luma -INFO - Search Product
+2024-04-18 15:43:51,497 - luma -INFO - URL is opened
+2024-04-18 15:43:53,860 - luma -INFO - Login page is opened
+2024-04-18 15:43:54,037 - luma -INFO - Entered username
+2024-04-18 15:43:54,270 - luma -INFO - Entered password
+2024-04-18 15:43:56,863 - luma -INFO - Login test passed
+2024-04-18 15:43:57,057 - luma -INFO - Search Product
+2024-04-18 22:57:16,836 - luma -INFO - URL is opened
+2024-04-18 22:57:20,569 - luma -INFO - Login page is opened
+2024-04-18 22:57:20,762 - luma -INFO - Entered username
+2024-04-18 22:57:21,026 - luma -INFO - Entered password
+2024-04-18 22:57:24,250 - luma -INFO - Login test passed
+2024-04-18 22:57:24,367 - luma -INFO - Search Product
+2024-04-18 23:00:59,854 - luma -INFO - URL is opened
+2024-04-18 23:01:01,957 - luma -INFO - Login page is opened
+2024-04-18 23:01:02,165 - luma -INFO - Entered username
+2024-04-18 23:01:02,362 - luma -INFO - Entered password
+2024-04-18 23:01:04,922 - luma -INFO - Login test passed
+2024-04-18 23:01:05,045 - luma -INFO - Search Product
+2024-04-18 23:01:44,248 - luma -INFO - URL is opened
+2024-04-18 23:01:46,592 - luma -INFO - Login page is opened
+2024-04-18 23:01:46,788 - luma -INFO - Entered username
+2024-04-18 23:01:46,998 - luma -INFO - Entered password
+2024-04-18 23:01:49,676 - luma -INFO - Login test passed
+2024-04-18 23:01:49,935 - luma -INFO - Search Product
+2024-04-18 23:03:11,662 - luma -INFO - URL is opened
+2024-04-18 23:03:15,183 - luma -INFO - Login page is opened
+2024-04-18 23:03:15,361 - luma -INFO - Entered username
+2024-04-18 23:03:15,590 - luma -INFO - Entered password
+2024-04-18 23:03:18,741 - luma -INFO - Login test passed
+2024-04-18 23:03:18,859 - luma -INFO - Search Product
+2024-04-18 23:04:14,916 - luma -INFO - URL is opened
+2024-04-18 23:04:17,091 - luma -INFO - Login page is opened
+2024-04-18 23:04:17,459 - luma -INFO - Entered username
+2024-04-18 23:04:17,589 - luma -INFO - Entered password
+2024-04-18 23:04:20,790 - luma -INFO - Login test passed
+2024-04-18 23:04:21,047 - luma -INFO - Search Product
+2024-04-18 23:16:06,480 - luma -INFO - URL is opened
+2024-04-18 23:16:08,795 - luma -INFO - Login page is opened
+2024-04-18 23:16:09,091 - luma -INFO - Entered username
+2024-04-18 23:16:09,289 - luma -INFO - Entered password
+2024-04-18 23:16:11,684 - luma -INFO - Login test passed
+2024-04-18 23:16:11,882 - luma -INFO - Search Product
+2024-04-18 23:16:24,802 - luma -INFO - Entered Street
+2024-04-18 23:16:24,968 - luma -INFO - Entered City
+2024-04-18 23:16:24,969 - luma -INFO - Select Province
+2024-04-18 23:16:25,104 - luma -INFO - Entered Postcode
+2024-04-18 23:16:25,258 - luma -INFO - Entered Phone Number
+2024-04-18 23:17:32,377 - luma -INFO - URL is opened
+2024-04-18 23:17:35,783 - luma -INFO - Login page is opened
+2024-04-18 23:17:36,002 - luma -INFO - Entered username
+2024-04-18 23:17:36,217 - luma -INFO - Entered password
+2024-04-18 23:17:39,239 - luma -INFO - Login test passed
+2024-04-18 23:17:39,398 - luma -INFO - Search Product
+2024-04-18 23:17:51,133 - luma -INFO - Entered Street
+2024-04-18 23:17:51,271 - luma -INFO - Entered City
+2024-04-18 23:17:51,436 - luma -INFO - Select Province
+2024-04-18 23:17:51,580 - luma -INFO - Entered Postcode
+2024-04-18 23:17:51,733 - luma -INFO - Entered Phone Number
+2024-04-18 23:19:44,458 - luma -INFO - URL is opened
+2024-04-18 23:19:48,345 - luma -INFO - Login page is opened
+2024-04-18 23:19:48,560 - luma -INFO - Entered username
+2024-04-18 23:19:48,836 - luma -INFO - Entered password
+2024-04-18 23:19:52,026 - luma -INFO - Login test passed
+2024-04-18 23:19:52,171 - luma -INFO - Search Product
+2024-04-18 23:20:38,743 - luma -INFO - URL is opened
+2024-04-18 23:20:41,602 - luma -INFO - Login page is opened
+2024-04-18 23:20:41,786 - luma -INFO - Entered username
+2024-04-18 23:20:41,965 - luma -INFO - Entered password
+2024-04-18 23:20:45,980 - luma -INFO - Login test passed
+2024-04-18 23:20:46,161 - luma -INFO - Search Product
+2024-04-18 23:21:48,309 - luma -INFO - URL is opened
+2024-04-18 23:21:51,292 - luma -INFO - Login page is opened
+2024-04-18 23:21:51,469 - luma -INFO - Entered username
+2024-04-18 23:21:51,661 - luma -INFO - Entered password
+2024-04-18 23:21:54,534 - luma -INFO - Login test passed
+2024-04-18 23:21:54,706 - luma -INFO - Search Product
+2024-04-18 23:22:04,407 - luma -INFO - Entered Street
+2024-04-18 23:22:04,560 - luma -INFO - Entered City
+2024-04-18 23:22:04,706 - luma -INFO - Select Province
+2024-04-18 23:22:04,829 - luma -INFO - Entered Postcode
+2024-04-18 23:22:04,980 - luma -INFO - Entered Phone Number
+2024-04-18 23:33:22,251 - luma -INFO - URL is opened
+2024-04-18 23:33:25,017 - luma -INFO - Login page is opened
+2024-04-18 23:33:25,214 - luma -INFO - Entered username
+2024-04-18 23:33:25,423 - luma -INFO - Entered password
+2024-04-18 23:33:28,493 - luma -INFO - Login test passed
+2024-04-18 23:33:28,609 - luma -INFO - Search Product
+2024-04-18 23:46:34,612 - luma -INFO - URL is opened
+2024-04-18 23:46:37,108 - luma -INFO - Login page is opened
+2024-04-18 23:46:37,298 - luma -INFO - Entered username
+2024-04-18 23:46:37,493 - luma -INFO - Entered password
+2024-04-18 23:46:40,563 - luma -INFO - Login test passed
+2024-04-18 23:46:40,740 - luma -INFO - Search Product
+2024-04-18 23:49:46,998 - luma -INFO - URL is opened
+2024-04-18 23:49:49,200 - luma -INFO - Login page is opened
+2024-04-18 23:49:49,532 - luma -INFO - Entered username
+2024-04-18 23:49:49,686 - luma -INFO - Entered password
+2024-04-18 23:49:52,701 - luma -INFO - Login test passed
+2024-04-18 23:49:52,903 - luma -INFO - Search Product
+2024-04-18 23:50:54,758 - luma -INFO - URL is opened
+2024-04-18 23:50:56,913 - luma -INFO - Login page is opened
+2024-04-18 23:50:57,201 - luma -INFO - Entered username
+2024-04-18 23:50:57,401 - luma -INFO - Entered password
+2024-04-18 23:50:59,938 - luma -INFO - Login test passed
+2024-04-18 23:51:00,128 - luma -INFO - Search Product
+2024-04-18 23:53:48,699 - luma -INFO - URL is opened
+2024-04-18 23:53:50,983 - luma -INFO - Login page is opened
+2024-04-18 23:53:51,161 - luma -INFO - Entered username
+2024-04-18 23:53:51,364 - luma -INFO - Entered password
+2024-04-18 23:54:00,574 - luma -INFO - Login test passed
+2024-04-18 23:54:00,704 - luma -INFO - Search Product
+2024-04-18 23:54:53,717 - luma -INFO - URL is opened
+2024-04-18 23:54:56,137 - luma -INFO - Login page is opened
+2024-04-18 23:54:56,439 - luma -INFO - Entered username
+2024-04-18 23:54:56,609 - luma -INFO - Entered password
+2024-04-18 23:54:58,989 - luma -INFO - Login test passed
+2024-04-18 23:54:59,179 - luma -INFO - Search Product
+2024-04-18 23:57:37,001 - luma -INFO - URL is opened
+2024-04-18 23:57:39,373 - luma -INFO - Login page is opened
+2024-04-18 23:57:39,617 - luma -INFO - Entered username
+2024-04-18 23:57:39,782 - luma -INFO - Entered password
+2024-04-18 23:57:42,128 - luma -INFO - Login test passed
+2024-04-18 23:57:42,329 - luma -INFO - Search Product
+2024-04-18 23:57:49,266 - luma -INFO - New Address
+2024-04-18 23:57:49,267 - luma -INFO - Entered Street
+2024-04-18 23:57:49,268 - luma -INFO - Entered City
+2024-04-18 23:57:49,268 - luma -INFO - Select Province
+2024-04-18 23:57:49,268 - luma -INFO - Entered Postcode
+2024-04-18 23:57:49,269 - luma -INFO - Entered Phone Number
+2024-04-18 23:59:14,888 - luma -INFO - URL is opened
+2024-04-18 23:59:17,181 - luma -INFO - Login page is opened
+2024-04-18 23:59:17,517 - luma -INFO - Entered username
+2024-04-18 23:59:17,662 - luma -INFO - Entered password
+2024-04-18 23:59:20,082 - luma -INFO - Login test passed
+2024-04-18 23:59:20,249 - luma -INFO - Search Product
+2024-04-19 00:00:41,286 - luma -INFO - URL is opened
+2024-04-19 00:00:43,625 - luma -INFO - Login page is opened
+2024-04-19 00:00:43,821 - luma -INFO - Entered username
+2024-04-19 00:00:44,021 - luma -INFO - Entered password
+2024-04-19 00:00:46,763 - luma -INFO - Login test passed
+2024-04-19 00:00:46,947 - luma -INFO - Search Product
+2024-04-19 00:00:56,213 - luma -INFO - Entered Postcode
+2024-04-19 00:00:56,359 - luma -INFO - Entered Postcode
+2024-04-19 00:03:44,651 - luma -INFO - URL is opened
+2024-04-19 00:03:47,029 - luma -INFO - Login page is opened
+2024-04-19 00:03:47,458 - luma -INFO - Entered username
+2024-04-19 00:03:47,580 - luma -INFO - Entered password
+2024-04-19 00:03:50,019 - luma -INFO - Login test passed
+2024-04-19 00:03:50,227 - luma -INFO - Search Product
+2024-04-19 00:04:00,090 - luma -INFO - shipping option
+2024-04-19 00:04:00,194 - luma -INFO - next
+2024-04-19 00:07:25,704 - luma -INFO - URL is opened
+2024-04-19 00:07:27,856 - luma -INFO - Login page is opened
+2024-04-19 00:07:28,169 - luma -INFO - Entered username
+2024-04-19 00:07:28,314 - luma -INFO - Entered password
+2024-04-19 00:07:30,960 - luma -INFO - Login test passed
+2024-04-19 00:07:31,148 - luma -INFO - Search Product
+2024-04-19 00:07:39,790 - luma -INFO - shipping option
+2024-04-19 00:07:39,904 - luma -INFO - next
+2024-04-19 00:09:10,253 - luma -INFO - URL is opened
+2024-04-19 00:09:12,121 - luma -INFO - Login page is opened
+2024-04-19 00:09:12,372 - luma -INFO - Entered username
+2024-04-19 00:09:12,506 - luma -INFO - Entered password
+2024-04-19 00:09:15,107 - luma -INFO - Login test passed
+2024-04-19 00:09:15,290 - luma -INFO - Search Product
+2024-04-19 00:09:36,232 - luma -INFO - URL is opened
+2024-04-19 00:09:39,489 - luma -INFO - Login page is opened
+2024-04-19 00:09:39,882 - luma -INFO - Entered username
+2024-04-19 00:09:40,006 - luma -INFO - Entered password
+2024-04-19 00:09:42,563 - luma -INFO - Login test passed
+2024-04-19 00:09:42,746 - luma -INFO - Search Product
+2024-04-19 00:09:51,581 - luma -INFO - shipping option
+2024-04-19 00:09:51,683 - luma -INFO - next
+2024-04-19 00:11:40,257 - luma -INFO - URL is opened
+2024-04-19 00:11:42,577 - luma -INFO - Login page is opened
+2024-04-19 00:11:42,770 - luma -INFO - Entered username
+2024-04-19 00:11:42,967 - luma -INFO - Entered password
+2024-04-19 00:11:45,514 - luma -INFO - Login test passed
+2024-04-19 00:11:45,715 - luma -INFO - Search Product
+2024-04-19 00:11:54,480 - luma -INFO - shipping option
+2024-04-19 00:11:54,583 - luma -INFO - next
+2024-04-19 00:11:57,730 - luma -INFO - Order Finish
+2024-04-19 00:17:31,719 - luma -INFO - URL is opened
+2024-04-19 00:17:33,933 - luma -INFO - Login page is opened
+2024-04-19 00:17:34,237 - luma -INFO - Entered username
+2024-04-19 00:17:34,438 - luma -INFO - Entered password
+2024-04-19 00:17:37,100 - luma -INFO - Login test passed
+2024-04-19 00:17:37,293 - luma -INFO - Search Product
+2024-04-19 00:18:07,765 - luma -INFO - URL is opened
+2024-04-19 00:18:09,884 - luma -INFO - Login page is opened
+2024-04-19 00:18:10,224 - luma -INFO - Entered username
+2024-04-19 00:18:10,363 - luma -INFO - Entered password
+2024-04-19 00:18:13,127 - luma -INFO - Login test passed
+2024-04-19 00:18:13,331 - luma -INFO - Search Product
+2024-04-19 00:18:23,117 - luma -INFO - New Address
+2024-04-19 00:18:26,345 - luma -INFO - Entered Street
+2024-04-19 00:18:26,538 - luma -INFO - Entered City
+2024-04-19 00:18:26,756 - luma -INFO - Select Province
+2024-04-19 00:18:26,899 - luma -INFO - Entered Postcode
+2024-04-19 00:18:27,072 - luma -INFO - Entered Phone Number
+2024-04-19 00:19:07,888 - luma -INFO - URL is opened
+2024-04-19 00:19:10,159 - luma -INFO - Login page is opened
+2024-04-19 00:19:10,447 - luma -INFO - Entered username
+2024-04-19 00:19:10,604 - luma -INFO - Entered password
+2024-04-19 00:19:13,066 - luma -INFO - Login test passed
+2024-04-19 00:19:13,262 - luma -INFO - Search Product
+2024-04-19 00:19:23,328 - luma -INFO - New Address
+2024-04-19 00:19:26,514 - luma -INFO - Entered Street
+2024-04-19 00:19:26,652 - luma -INFO - Entered City
+2024-04-19 00:19:26,870 - luma -INFO - Select Province
+2024-04-19 00:19:27,030 - luma -INFO - Entered Postcode
+2024-04-19 00:19:27,222 - luma -INFO - Entered Phone Number
+2024-04-19 00:21:15,128 - luma -INFO - URL is opened
+2024-04-19 00:21:18,238 - luma -INFO - Login page is opened
+2024-04-19 00:21:18,513 - luma -INFO - Entered username
+2024-04-19 00:21:18,659 - luma -INFO - Entered password
+2024-04-19 00:21:21,177 - luma -INFO - Login test passed
+2024-04-19 00:21:21,383 - luma -INFO - Search Product
+2024-04-19 00:22:02,397 - luma -INFO - URL is opened
+2024-04-19 00:22:05,770 - luma -INFO - Login page is opened
+2024-04-19 00:22:06,076 - luma -INFO - Entered username
+2024-04-19 00:22:06,265 - luma -INFO - Entered password
+2024-04-19 00:22:08,759 - luma -INFO - Login test passed
+2024-04-19 00:22:09,170 - luma -INFO - Search Product
+2024-04-19 00:25:14,966 - luma -INFO - URL is opened
+2024-04-19 00:25:17,109 - luma -INFO - Login page is opened
+2024-04-19 00:25:17,409 - luma -INFO - Entered username
+2024-04-19 00:25:17,531 - luma -INFO - Entered password
+2024-04-19 00:25:20,372 - luma -INFO - Login test passed
+2024-04-19 00:25:20,572 - luma -INFO - Search Product
+2024-04-19 00:25:42,549 - luma -INFO - New Address
+2024-04-19 00:25:45,764 - luma -INFO - Entered Street
+2024-04-19 00:25:45,894 - luma -INFO - Entered City
+2024-04-19 00:25:46,031 - luma -INFO - Select Province
+2024-04-19 00:25:46,191 - luma -INFO - Entered Postcode
+2024-04-19 00:25:46,346 - luma -INFO - Entered Phone Number
+2024-04-19 00:26:26,896 - luma -INFO - URL is opened
+2024-04-19 00:26:29,044 - luma -INFO - Login page is opened
+2024-04-19 00:26:29,228 - luma -INFO - Entered username
+2024-04-19 00:26:29,398 - luma -INFO - Entered password
+2024-04-19 00:26:31,871 - luma -INFO - Login test passed
+2024-04-19 00:26:32,054 - luma -INFO - Search Product
+2024-04-19 00:26:53,297 - luma -INFO - New Address
+2024-04-19 00:26:56,486 - luma -INFO - Entered Street
+2024-04-19 00:26:56,624 - luma -INFO - Entered City
+2024-04-19 00:26:56,771 - luma -INFO - Select Province
+2024-04-19 00:26:56,901 - luma -INFO - Entered Postcode
+2024-04-19 00:26:57,031 - luma -INFO - Entered Phone Number
+2024-04-23 00:49:11,835 - luma -INFO - URL is opened
+2024-04-23 00:49:14,104 - luma -INFO - Login page is opened
+2024-04-23 00:49:14,577 - luma -INFO - Entered username
+2024-04-23 00:49:14,720 - luma -INFO - Entered password
+2024-04-23 00:49:17,188 - luma -INFO - Login test passed
+2024-04-23 00:49:23,518 - luma -INFO - Search Product
+2024-04-23 00:49:29,910 - luma -INFO - Add Product To Cart
+2024-04-23 00:49:33,069 - luma -INFO - Open My Cart
+2024-04-23 00:49:48,951 - luma -INFO - Open Checkout Page
+2024-04-23 00:49:52,067 - luma -INFO - Shipping Option
+2024-04-23 00:49:52,171 - luma -INFO - Open Confirm Page
+2024-04-23 00:51:36,844 - luma -INFO - URL is opened
+2024-04-23 00:51:40,435 - luma -INFO - Login page is opened
+2024-04-23 00:51:40,760 - luma -INFO - Entered username
+2024-04-23 00:51:40,902 - luma -INFO - Entered password
+2024-04-23 00:51:44,782 - luma -INFO - Login test passed
+2024-04-23 00:51:50,757 - luma -INFO - Search Product
+2024-04-23 00:51:57,117 - luma -INFO - Add Product To Cart
+2024-04-23 00:52:00,267 - luma -INFO - Open My Cart
+2024-04-23 00:52:06,402 - luma -INFO - Open Checkout Page
+2024-04-23 00:52:09,514 - luma -INFO - Shipping Option
+2024-04-23 00:52:09,607 - luma -INFO - Open Confirm Page
+2024-04-23 00:52:14,760 - luma -INFO - Order Finish
+2024-04-24 01:13:10,938 - luma -INFO - URL is opened
+2024-04-24 01:13:13,497 - luma -INFO - Login page is opened
+2024-04-24 01:13:13,755 - luma -INFO - Entered username
+2024-04-24 01:13:13,987 - luma -INFO - Entered password
+2024-04-24 01:13:16,414 - luma -INFO - Login test passed
+2024-04-24 01:13:23,020 - luma -INFO - Search Product
+2024-04-24 01:13:29,461 - luma -INFO - Add Product To Cart
+2024-04-24 01:13:32,618 - luma -INFO - Open My Cart
+2024-04-24 01:13:45,355 - luma -INFO - Open Checkout Page
+2024-04-24 01:13:48,487 - luma -INFO - Shipping Option
+2024-04-24 01:13:48,587 - luma -INFO - Open Confirm Page
+2024-04-24 01:15:36,580 - luma -INFO - URL is opened
+2024-04-24 01:15:39,744 - luma -INFO - Login page is opened
+2024-04-24 01:15:40,087 - luma -INFO - Entered username
+2024-04-24 01:15:40,232 - luma -INFO - Entered password
+2024-04-24 01:15:42,518 - luma -INFO - Login test passed
+2024-04-24 01:15:48,092 - luma -INFO - Search Product
+2024-04-24 01:15:54,434 - luma -INFO - Add Product To Cart
+2024-04-24 01:15:57,574 - luma -INFO - Open My Cart
+2024-04-24 01:16:11,437 - luma -INFO - Open Checkout Page
+2024-04-24 01:16:14,569 - luma -INFO - Shipping Option
+2024-04-24 01:16:14,675 - luma -INFO - Open Confirm Page
+2024-04-24 01:16:22,831 - luma -INFO - Order Finish

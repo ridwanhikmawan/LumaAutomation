@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LumaOrder]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.luma.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="LumaOrder Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.luma.testCases.TC_OrderTest">
+        <methods>
+          <include name="orderTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.luma.testCases.TC_OrderTest -->
+    </classes>
+  </test> <!-- LumaOrder Test(failed) -->
+</suite> <!-- Failed suite [LumaOrder] -->
