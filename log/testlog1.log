@@ -323,3 +323,53 @@
 2024-04-24 01:16:14,569 [main] INFO luma - Shipping Option
 2024-04-24 01:16:14,675 [main] INFO luma - Open Confirm Page
 2024-04-24 01:16:22,831 [main] INFO luma - Order Finish
+2024-04-24 01:44:56,594 [main] INFO luma - URL is opened
+2024-04-24 01:45:00,355 [main] INFO luma - Login page is opened
+2024-04-24 01:45:00,645 [main] INFO luma - Entered username
+2024-04-24 01:45:00,825 [main] INFO luma - Entered password
+2024-04-24 01:45:04,142 [main] INFO luma - Login test passed
+2024-04-24 01:45:12,178 [main] INFO luma - Search Product
+2024-04-24 01:45:18,578 [main] INFO luma - Add Product To Cart
+2024-04-24 01:45:21,722 [main] INFO luma - Open My Cart
+2024-04-24 01:45:47,241 [main] INFO luma - Open Checkout Page
+2024-04-24 01:45:50,422 [main] INFO luma - Shipping Option
+2024-04-24 01:45:50,497 [main] INFO luma - Open Confirm Page
+2024-04-24 01:45:58,678 [main] INFO luma - Order Finish
+2024-04-26 23:23:52,200 [main] INFO luma - URL is opened
+2024-04-26 23:23:55,063 [main] INFO luma - Login page is opened
+2024-04-26 23:23:55,254 [main] INFO luma - Entered username
+2024-04-26 23:23:55,454 [main] INFO luma - Entered password
+2024-04-26 23:24:27,302 [main] INFO luma - URL is opened
+2024-04-26 23:24:30,094 [main] INFO luma - Login page is opened
+2024-04-26 23:24:30,277 [main] INFO luma - Entered username
+2024-04-26 23:24:30,538 [main] INFO luma - Entered password
+2024-04-26 23:34:30,283 [main] INFO luma - URL is opened
+2024-04-26 23:34:32,481 [main] INFO luma - Login page is opened
+2024-04-26 23:34:32,752 [main] INFO luma - Entered username
+2024-04-26 23:34:32,904 [main] INFO luma - Entered password
+2024-04-26 23:34:35,629 [main] INFO luma - Login test passed
+2024-04-26 23:35:01,123 [main] INFO luma - URL is opened
+2024-04-26 23:35:04,077 [main] INFO luma - Login page is opened
+2024-04-26 23:35:04,342 [main] INFO luma - Entered username
+2024-04-26 23:35:04,484 [main] INFO luma - Entered password
+2024-04-26 23:35:20,461 [main] INFO luma - Login test passed
+2024-04-26 23:35:35,490 [main] INFO luma - Search Product
+2024-04-26 23:35:41,910 [main] INFO luma - Add Product To Cart
+2024-04-26 23:35:45,083 [main] INFO luma - Open My Cart
+2024-04-27 00:43:21,201 [main] INFO luma - URL is opened
+2024-04-27 00:43:23,697 [main] INFO luma - Login page is opened
+2024-04-27 00:43:23,972 [main] INFO luma - Entered username
+2024-04-27 00:43:24,127 [main] INFO luma - Entered password
+2024-04-27 00:43:26,979 [main] INFO luma - Login test passed
+2024-04-27 00:43:41,964 [main] INFO luma - URL is opened
+2024-04-27 00:43:45,120 [main] INFO luma - Login page is opened
+2024-04-27 00:43:45,390 [main] INFO luma - Entered username
+2024-04-27 00:43:45,553 [main] INFO luma - Entered password
+2024-04-27 00:43:48,042 [main] INFO luma - Login test passed
+2024-04-27 00:43:54,808 [main] INFO luma - Search Product
+2024-04-27 00:44:01,190 [main] INFO luma - Add Product To Cart
+2024-04-27 00:44:04,348 [main] INFO luma - Open My Cart
+2024-04-27 00:44:15,547 [main] INFO luma - Open Checkout Page
+2024-04-27 00:44:18,709 [main] INFO luma - Shipping Option
+2024-04-27 00:44:18,820 [main] INFO luma - Open Confirm Page
+2024-04-27 00:44:26,982 [main] INFO luma - Order Finish
